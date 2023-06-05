@@ -1,0 +1,10 @@
+[
+    {
+        "package": "gghsci",
+        "url": "https://github.com/hsci-r/gghsci"
+    },
+    {
+        "package": "hscidbutil",
+        "url": "https://github.com/hsci-r/hscidbutil"
+    }
+]
